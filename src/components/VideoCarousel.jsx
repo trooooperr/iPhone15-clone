@@ -166,7 +166,7 @@ const VideoCarousel = () => {
   id="video"
   playsInline
   className={`pointer-events-none ${
-    list.id === 2 ? "translate-x-[15px] sm:translate-x-44" : ""
+    list.id === 2 ? "translate-x-[35px] sm:translate-x-44" : ""
   }`}
   preload="auto"
   muted
@@ -183,11 +183,14 @@ const VideoCarousel = () => {
 </video>
               </div>
 
-              <div className="absolute top-12 left-[5%] z-10">
+              <div className="absolute top-6 sm:top-24 left-[5%] z-10">
                 {list.textLists.map((text, i) => (
-                  <p key={i} className="md:text-2xl text-xl font-medium">
-                    {text}
-                  </p>
+<p
+  key={i}
+  className="text-sm sm:text-base md:text-xl lg:text-2xl font-medium leading-tight sm:leading-normal"
+>
+  {text}
+</p>
                 ))}
               </div>
             </div>
