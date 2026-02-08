@@ -3,7 +3,7 @@ import { footerLinks } from '../constants'
 
 const Footer = () => {
   return (
-    <footer className="py-5 sm:px-10 px-5">
+    <footer className="py-5 px-3">
       <div className="screen-max-width">
         <div>
           <p className="font-semibold text-gray text-xs">
@@ -31,7 +31,7 @@ const Footer = () => {
               <p key={link} className="font-semibold text-gray text-xs">
                 {link}{' '}
                 {i !== footerLinks.length - 1 && (
-                  <span className="mx-1"> | </span>
+                  <span className="mx-0.5"> | </span>
                 )}
               </p>
             ))}
