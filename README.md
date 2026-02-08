@@ -1,37 +1,54 @@
 # iPhone 15 Website Clone 📱
 
-This project is a **clone of Apple’s iPhone 15 Pro website**, created by following a YouTube tutorial from  
-**JavaScript Mastery**.
-
-I built this project to practice **React, Three.js, GSAP animations, and Tailwind CSS**, and to understand how modern 3D websites are structured.
+![iPhone 15 1](./assets/images/ss1.png) ![iPhone 15 2](./assets/images/ss2.png) ![iPhone 15 3](./assets/images/ss3.png) ![iPhone 15 4](./assets/images/ss4.png)
 
 ---
 
-## 🚀 Tech Stack Used
+A **pixel-perfect clone of Apple’s iPhone 15 Pro website**, built to practice **modern web development techniques** including React, Three.js, GSAP animations, and Tailwind CSS. This project helps understand how **interactive 3D websites** are structured and how animations can enhance user experience.  
 
-- React.js  
-- Three.js  
-- GSAP (Greensock Animation Platform)  
-- Tailwind CSS  
-- Vite  
+This project was inspired by a YouTube tutorial from **JavaScript Mastery**, but extensively customized and enhanced to include additional functionality and responsiveness.
 
 ---
 
-## ✨ What This Project Includes
+## 🚀 Tech Stack
 
-- Smooth animations using **GSAP**
-- 3D iPhone model rendering using **Three.js**
-- Color and size switching for models
-- Custom video carousel animations
-- Fully responsive layout
-- Clean and reusable component structure
+| Frontend | Animations | Styling | Bundler |
+|----------|------------|---------|---------|
+| React.js | GSAP       | Tailwind CSS | Vite |
+| Three.js |            |         |       |
 
 ---
 
-## 🛠️ How to Run Locally
+## ✨ Features
+
+- **Interactive 3D iPhone Model** using Three.js  
+- **Smooth Animations** for scrolling and hover effects via GSAP  
+- **Custom Video Carousel** for product demos  
+- **Responsive Design** for all devices (mobile, tablet, desktop)  
+- **Dynamic Model Variants** (colors and sizes)  
+- **Clean Component Structure** for scalability and maintainability  
+
+---
+
+## 🛠️ Local Setup
 
 ### Prerequisites
-Make sure you have:
-- Node.js
-- npm
-- Git
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- Git  
+
+### Installation Steps
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/iPhone15-clone.git
+
+# Navigate to project folder
+cd iPhone15-clone
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
