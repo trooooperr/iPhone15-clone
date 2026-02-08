@@ -166,7 +166,7 @@ const VideoCarousel = () => {
   id="video"
   playsInline
   className={`pointer-events-none ${
-    list.id === 2 ? "translate-x-[35px] sm:translate-x-44" : ""
+    list.id === 2 ? "translate-x-[30px] sm:translate-x-[44px]" : ""
   }`}
   preload="auto"
   muted
