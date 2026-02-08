@@ -7,17 +7,6 @@ I built this project to practice **React, Three.js, GSAP animations, and Tailwin
 
 ---
 
-## 📌 Tutorial Source
-
-This project is based on the following YouTube tutorial:
-
-🎥 **JavaScript Mastery – iPhone 15 Website**
-https://www.youtube.com/@javascriptmastery/videos
-
-All credits for the original idea, design inspiration, and guidance go to **JavaScript Mastery**.
-
----
-
 ## 🚀 Tech Stack Used
 
 - React.js  
@@ -46,11 +35,3 @@ Make sure you have:
 - Node.js
 - npm
 - Git
-
-### Steps
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm run dev
