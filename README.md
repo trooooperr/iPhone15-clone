@@ -1,12 +1,12 @@
 # iPhone 15 Website Clone
 
 ---
-<img width="280" height="400" alt="ss1" src="https://github.com/user-attachments/assets/bab54000-044a-4aaa-81dc-cfd2cb8ea35c"/>
-<img width="280" height="400" alt="ss2" src="https://github.com/user-attachments/assets/a35532aa-7530-4135-8db6-2faef4e2e5cb"/>
-<img width="280" height="400" alt="ss3" src="https://github.com/user-attachments/assets/b1f15389-7004-4d5e-be38-d0371430c611"/>
-<img width="280" height="400" alt="ss4" src="https://github.com/user-attachments/assets/8cec7af1-53ce-4334-9342-860b8f0ca2df"/>
-<img width="280" height="400" alt="image" src="https://github.com/user-attachments/assets/a0d1bbac-a6c4-4299-b36b-4e5c6ab22763"/>
-<img width="280" height="400" alt="image" src="https://github.com/user-attachments/assets/348e4e51-e422-48d7-956d-f259c39101c1"/>
+<img width="250" height="300" alt="ss1" src="https://github.com/user-attachments/assets/bab54000-044a-4aaa-81dc-cfd2cb8ea35c"/>
+<img width="250" height="300" alt="ss2" src="https://github.com/user-attachments/assets/a35532aa-7530-4135-8db6-2faef4e2e5cb"/>
+<img width="250" height="300" alt="ss3" src="https://github.com/user-attachments/assets/b1f15389-7004-4d5e-be38-d0371430c611"/>
+<img width="250" height="300" alt="ss4" src="https://github.com/user-attachments/assets/8cec7af1-53ce-4334-9342-860b8f0ca2df"/>
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/a0d1bbac-a6c4-4299-b36b-4e5c6ab22763"/>
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/348e4e51-e422-48d7-956d-f259c39101c1"/>
 
 <br>
 <br>
