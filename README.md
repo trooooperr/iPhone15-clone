@@ -25,10 +25,10 @@ This project was inspired by a YouTube tutorial from **JavaScript Mastery**, but
 
 ##  Tech Stack
 
-| Frontend | Animations | Styling | Bundler |
-|----------|------------|---------|---------|
-| React.js | GSAP       | Tailwind CSS | Vite |
-| Three.js |            |         |       |
+| Frontend | Animations | Styling |
+|----------|------------|---------|
+| React.js | GSAP       | Tailwind CSS |
+| Three.js |            |         |    
 
 ---
 
