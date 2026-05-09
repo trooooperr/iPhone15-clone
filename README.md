@@ -55,7 +55,7 @@ Ensure you have the following installed:
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/iPhone15-clone.git
+git clone https://github.com/trooooperr/iPhone15-clone.git
 
 # Navigate to project folder
 cd iPhone15-clone
