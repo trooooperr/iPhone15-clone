@@ -23,7 +23,7 @@ This project was inspired by a YouTube tutorial from **JavaScript Mastery**, but
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Frontend | Animations | Styling | Bundler |
 |----------|------------|---------|---------|
@@ -32,7 +32,7 @@ This project was inspired by a YouTube tutorial from **JavaScript Mastery**, but
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Interactive 3D iPhone Model** using Three.js  
 - **Smooth Animations** for scrolling and hover effects via GSAP  
@@ -43,7 +43,7 @@ This project was inspired by a YouTube tutorial from **JavaScript Mastery**, but
 
 ---
 
-## 🛠️ Local Setup
+##  Local Setup
 
 ### Prerequisites
 Ensure you have the following installed:
